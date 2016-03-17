@@ -1,2 +1,2 @@
 echo "keeeeeeeeeeeeeeeeeeeeeeeeeeeeeek"
-nodejs -v
+node --version
