@@ -1,2 +1,2 @@
 echo "keeeeeeeeeeeeeeeeeeeeeeeeeeeeeek"
-npm install
+node --version
